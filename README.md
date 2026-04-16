@@ -13,7 +13,7 @@ O simulador foi desenvolvido em Python, utilizando processamento vetorizado com 
 Devido à natureza da modulação LoRa, simular um grande número de pontos (200k símbolos) exige uma quantidade massiva de memória RAM.
 
 - O Desafio: Para cada símbolo, o receptor processa uma FFT de tamanho $2^{SF}$ para cada uma das $L$ antenas. Simular 200k pontos de uma vez exigiria $>12$ GB de RAM, excedendo a capacidade de processamento.
-- A Solução: Implementamos a lógica de Mini-Batches. O código divide os 200k símbolos em 10 ou 20 blocos menores. Cada bloco é processado, os erros são contabilizados, e a memória é liberada antes do próximo lote. Isso permite simular milhões de pontos mantendo o uso de RAM.
+- A Solução: Implementar a lógica de Mini-Batches. O código divide os 200k símbolos em 10 ou 20 blocos menores. Cada bloco é processado, os erros são contabilizados, e a memória é liberada antes do próximo lote. Isso permite simular milhões de pontos mantendo o uso de RAM.
 
 **2. Shadowing (Sombreamento Lognormal)**
 
