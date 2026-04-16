@@ -1,0 +1,187 @@
+
+=== Simulando L=1 (AWGN) ===
+AWGN  L=1, SNR=-30.0 dB -> BER=4.9162e-01
+AWGN  L=1, SNR=-28.0 dB -> BER=4.8232e-01
+AWGN  L=1, SNR=-26.0 dB -> BER=4.5711e-01
+AWGN  L=1, SNR=-24.0 dB -> BER=3.9605e-01
+AWGN  L=1, SNR=-22.0 dB -> BER=2.7364e-01
+AWGN  L=1, SNR=-20.0 dB -> BER=1.1345e-01
+AWGN  L=1, SNR=-18.0 dB -> BER=1.6530e-02
+AWGN  L=1, SNR=-16.0 dB -> BER=3.7500e-04
+AWGN  L=1, SNR=-14.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR=-12.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR=-10.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR= -8.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR= -6.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR= -4.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR= -2.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR=  0.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR=  2.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR=  4.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR=  6.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR=  8.0 dB -> BER=0.0000e+00
+AWGN  L=1, SNR= 10.0 dB -> BER=0.0000e+00
+
+=== Simulando L=1 (Rayleigh + AWGN) ===
+Fading L=1, SNR=-30.0 dB -> BER=4.8627e-01
+Fading L=1, SNR=-28.0 dB -> BER=4.6844e-01
+Fading L=1, SNR=-26.0 dB -> BER=4.3623e-01
+Fading L=1, SNR=-24.0 dB -> BER=3.8222e-01
+Fading L=1, SNR=-22.0 dB -> BER=3.1586e-01
+Fading L=1, SNR=-20.0 dB -> BER=2.4123e-01
+Fading L=1, SNR=-18.0 dB -> BER=1.7543e-01
+Fading L=1, SNR=-16.0 dB -> BER=1.2222e-01
+Fading L=1, SNR=-14.0 dB -> BER=8.2396e-02
+Fading L=1, SNR=-12.0 dB -> BER=5.4211e-02
+Fading L=1, SNR=-10.0 dB -> BER=3.4818e-02
+Fading L=1, SNR= -8.0 dB -> BER=2.1861e-02
+Fading L=1, SNR= -6.0 dB -> BER=1.4413e-02
+Fading L=1, SNR= -4.0 dB -> BER=9.2470e-03
+Fading L=1, SNR= -2.0 dB -> BER=5.7705e-03
+Fading L=1, SNR=  0.0 dB -> BER=3.6730e-03
+Fading L=1, SNR=  2.0 dB -> BER=2.3380e-03
+Fading L=1, SNR=  4.0 dB -> BER=1.4750e-03
+Fading L=1, SNR=  6.0 dB -> BER=8.4800e-04
+Fading L=1, SNR=  8.0 dB -> BER=5.2950e-04
+Fading L=1, SNR= 10.0 dB -> BER=3.0050e-04
+
+=== Simulando L=2 (AWGN) ===
+AWGN  L=2, SNR=-30.0 dB -> BER=4.7243e-01
+AWGN  L=2, SNR=-28.0 dB -> BER=4.3263e-01
+AWGN  L=2, SNR=-26.0 dB -> BER=3.4316e-01
+AWGN  L=2, SNR=-24.0 dB -> BER=1.9189e-01
+AWGN  L=2, SNR=-22.0 dB -> BER=5.1078e-02
+AWGN  L=2, SNR=-20.0 dB -> BER=3.3125e-03
+AWGN  L=2, SNR=-18.0 dB -> BER=1.8500e-05
+AWGN  L=2, SNR=-16.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR=-14.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR=-12.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR=-10.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR= -8.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR= -6.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR= -4.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR= -2.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR=  0.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR=  2.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR=  4.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR=  6.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR=  8.0 dB -> BER=0.0000e+00
+AWGN  L=2, SNR= 10.0 dB -> BER=0.0000e+00
+
+=== Simulando L=2 (Rayleigh + AWGN) ===
+Fading L=2, SNR=-30.0 dB -> BER=4.6106e-01
+Fading L=2, SNR=-28.0 dB -> BER=4.1668e-01
+Fading L=2, SNR=-26.0 dB -> BER=3.4284e-01
+Fading L=2, SNR=-24.0 dB -> BER=2.4897e-01
+Fading L=2, SNR=-22.0 dB -> BER=1.5800e-01
+Fading L=2, SNR=-20.0 dB -> BER=8.8959e-02
+Fading L=2, SNR=-18.0 dB -> BER=4.4444e-02
+Fading L=2, SNR=-16.0 dB -> BER=2.0729e-02
+Fading L=2, SNR=-14.0 dB -> BER=9.1350e-03
+Fading L=2, SNR=-12.0 dB -> BER=3.8735e-03
+Fading L=2, SNR=-10.0 dB -> BER=1.5965e-03
+Fading L=2, SNR= -8.0 dB -> BER=6.1200e-04
+Fading L=2, SNR= -6.0 dB -> BER=3.3000e-04
+Fading L=2, SNR= -4.0 dB -> BER=1.2250e-04
+Fading L=2, SNR= -2.0 dB -> BER=5.5000e-05
+Fading L=2, SNR=  0.0 dB -> BER=2.0500e-05
+Fading L=2, SNR=  2.0 dB -> BER=4.0000e-06
+Fading L=2, SNR=  4.0 dB -> BER=0.0000e+00
+Fading L=2, SNR=  6.0 dB -> BER=4.0000e-06
+Fading L=2, SNR=  8.0 dB -> BER=0.0000e+00
+Fading L=2, SNR= 10.0 dB -> BER=0.0000e+00
+
+=== Simulando L=3 (AWGN) ===
+AWGN  L=3, SNR=-30.0 dB -> BER=4.3870e-01
+AWGN  L=3, SNR=-28.0 dB -> BER=3.5752e-01
+AWGN  L=3, SNR=-26.0 dB -> BER=2.1227e-01
+AWGN  L=3, SNR=-24.0 dB -> BER=6.3995e-02
+AWGN  L=3, SNR=-22.0 dB -> BER=4.9225e-03
+AWGN  L=3, SNR=-20.0 dB -> BER=2.7000e-05
+AWGN  L=3, SNR=-18.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR=-16.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR=-14.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR=-12.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR=-10.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR= -8.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR= -6.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR= -4.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR= -2.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR=  0.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR=  2.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR=  4.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR=  6.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR=  8.0 dB -> BER=0.0000e+00
+AWGN  L=3, SNR= 10.0 dB -> BER=0.0000e+00
+
+=== Simulando L=3 (Rayleigh + AWGN) ===
+Fading L=3, SNR=-30.0 dB -> BER=4.2621e-01
+Fading L=3, SNR=-28.0 dB -> BER=3.5296e-01
+Fading L=3, SNR=-26.0 dB -> BER=2.4808e-01
+Fading L=3, SNR=-24.0 dB -> BER=1.4355e-01
+Fading L=3, SNR=-22.0 dB -> BER=6.8569e-02
+Fading L=3, SNR=-20.0 dB -> BER=2.7424e-02
+Fading L=3, SNR=-18.0 dB -> BER=9.1300e-03
+Fading L=3, SNR=-16.0 dB -> BER=2.8080e-03
+Fading L=3, SNR=-14.0 dB -> BER=8.3950e-04
+Fading L=3, SNR=-12.0 dB -> BER=1.9500e-04
+Fading L=3, SNR=-10.0 dB -> BER=4.7500e-05
+Fading L=3, SNR= -8.0 dB -> BER=2.8500e-05
+Fading L=3, SNR= -6.0 dB -> BER=5.5000e-06
+Fading L=3, SNR= -4.0 dB -> BER=3.5000e-06
+Fading L=3, SNR= -2.0 dB -> BER=0.0000e+00
+Fading L=3, SNR=  0.0 dB -> BER=0.0000e+00
+Fading L=3, SNR=  2.0 dB -> BER=0.0000e+00
+Fading L=3, SNR=  4.0 dB -> BER=0.0000e+00
+Fading L=3, SNR=  6.0 dB -> BER=0.0000e+00
+Fading L=3, SNR=  8.0 dB -> BER=0.0000e+00
+Fading L=3, SNR= 10.0 dB -> BER=0.0000e+00
+
+=== Simulando L=4 (AWGN) ===
+AWGN  L=4, SNR=-30.0 dB -> BER=3.9552e-01
+AWGN  L=4, SNR=-28.0 dB -> BER=2.7321e-01
+AWGN  L=4, SNR=-26.0 dB -> BER=1.1166e-01
+AWGN  L=4, SNR=-24.0 dB -> BER=1.6019e-02
+AWGN  L=4, SNR=-22.0 dB -> BER=3.5100e-04
+AWGN  L=4, SNR=-20.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR=-18.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR=-16.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR=-14.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR=-12.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR=-10.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR= -8.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR= -6.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR= -4.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR= -2.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR=  0.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR=  2.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR=  4.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR=  6.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR=  8.0 dB -> BER=0.0000e+00
+AWGN  L=4, SNR= 10.0 dB -> BER=0.0000e+00
+
+=== Simulando L=4 (Rayleigh + AWGN) ===
+Fading L=4, SNR=-30.0 dB -> BER=3.8675e-01
+Fading L=4, SNR=-28.0 dB -> BER=2.8434e-01
+Fading L=4, SNR=-26.0 dB -> BER=1.6782e-01
+Fading L=4, SNR=-24.0 dB -> BER=7.6314e-02
+Fading L=4, SNR=-22.0 dB -> BER=2.6203e-02
+Fading L=4, SNR=-20.0 dB -> BER=7.3420e-03
+Fading L=4, SNR=-18.0 dB -> BER=1.7600e-03
+Fading L=4, SNR=-16.0 dB -> BER=3.4250e-04
+Fading L=4, SNR=-14.0 dB -> BER=8.1500e-05
+Fading L=4, SNR=-12.0 dB -> BER=2.0000e-06
+Fading L=4, SNR=-10.0 dB -> BER=0.0000e+00
+Fading L=4, SNR= -8.0 dB -> BER=2.5000e-06
+Fading L=4, SNR= -6.0 dB -> BER=0.0000e+00
+Fading L=4, SNR= -4.0 dB -> BER=0.0000e+00
+Fading L=4, SNR= -2.0 dB -> BER=0.0000e+00
+Fading L=4, SNR=  0.0 dB -> BER=0.0000e+00
+Fading L=4, SNR=  2.0 dB -> BER=0.0000e+00
+Fading L=4, SNR=  4.0 dB -> BER=0.0000e+00
+Fading L=4, SNR=  6.0 dB -> BER=0.0000e+00
+Fading L=4, SNR=  8.0 dB -> BER=0.0000e+00
+Fading L=4, SNR= 10.0 dB -> BER=0.0000e+00
+
+Simulação concluída em 176.42 minutos.
+✅ Gráfico salvo em: /home/bia/PIBIC/codigos/fig1_art2.png
